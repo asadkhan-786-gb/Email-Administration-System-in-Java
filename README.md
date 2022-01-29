@@ -3,7 +3,9 @@
 ## This is a basic Java project focused on applying object-oriented design in a real world application.
 
 # Email Administration
-Project AIM
+
+##Project AIM
+
 IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires.
 
 
